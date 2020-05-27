@@ -1,1 +1,3 @@
-* `./run_demo.sh`
+* `./start.sh`
+
+* `curl localhost:8888`
